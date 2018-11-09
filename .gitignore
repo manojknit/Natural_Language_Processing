@@ -1,2 +1,3 @@
 dataset/glove
 abcnews-date-text.csv
+*.csv
