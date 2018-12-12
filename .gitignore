@@ -1,3 +1,4 @@
 dataset/glove
 abcnews-date-text.csv
 *.csv
+GoogleNews-vectors-negative300.bin
